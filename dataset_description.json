@@ -1,0 +1,6 @@
+{
+  "Name": "IEEG CCEP Recording",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "Authors": ["Benjamin Cox MD"]
+}
