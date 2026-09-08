@@ -1,0 +1,51 @@
+{
+    "participant_id": {
+        "Description": "Unique BIDS subject identifier"
+    },
+    "age_implant": {
+        "Description": "Age of participant at time of iEEG implant",
+        "Units": "years"
+    },
+    "age_onset_in_months": {
+        "Description": "Age at epilepsy onset in months",
+        "Units": "months"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "M": "Male",
+            "F": "Female"
+        }
+    },
+    "race": {
+        "Description": "Race as reported in clinical records"
+    },
+    "ethnicity": {
+        "Description": "Ethnicity as reported in clinical records"
+    },
+    "mri_lesional": {
+        "Description": "Presence of a visible lesion in clinical MRI",
+        "Levels": {
+            "Yes": "MRI shows lesion",
+            "No": "MRI shows no lesion"
+        }
+    },
+    "mri_lesion_details": {
+        "Description": "Details about the MRI-visible lesion, if present"
+    },
+    "soz_laterality": {
+        "Description": "Laterality of seizure onset zone as determined by clinician"
+    },
+    "soz_localization": {
+        "Description": "Anatomical localization of seizure onset zone"
+    },
+    "surgery_received": {
+        "Description": "Type of epilepsy surgery received, if any"
+    },
+    "CCEP_Stimulation_Seizures": {
+        "Description": "Number of seizures induced during CCEP stimulation"
+    },
+    "CCEP_Stimulated_Seizures_Electrodes": {
+        "Description": "Electrodes involved in seizures induced by CCEP stimulation"
+    }
+}
