@@ -1,0 +1,16 @@
+{
+  "TaskName": "CCEP_OnASM",
+  "InstitutionName": "University of Alabama at Birmingham Hospital",
+  "InstitutionAddress": "1802 6th Ave S, Birmingham, AL, 35233",
+  "InstitutionalDepartmentName": "Department of Neurology, Epilepsy Division",
+  "Manufacturer": "NATUS Inc",
+  "TaskDescription": "Cortico-Cortical Evoked Potentials via stimulation of intracranial electrodes",
+  "iEEGReference": "bipolar",
+  "SamplingFrequency": 2048,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "SEEGChannelCount": 208,
+  "ElectricalStimulation": true,
+  "ElectricalStimulationParameters": "1Hz Frequency; 5mA Current; 300us Pulse Width; 3sec Train Duration",
+  "RecordingType": "continuous"
+}
